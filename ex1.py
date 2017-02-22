@@ -1,5 +1,5 @@
 # this is a comment
-print "Hello world!"
+print "Hello world!" + "\n"
 print "Hello again"
 print "I like typing like this."
 print "this is fun"
